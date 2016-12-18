@@ -1,0 +1,4 @@
+data/*
+cqlFiles/*
+*.class
+splitter/.idea/*
